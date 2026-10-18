@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
+    url: "https://best-news.pages.dev/",
+    title: "Best News",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    author: "Putri Lestari",
+    profile: "#",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Bangkok",
@@ -21,18 +21,18 @@ export default defineAstroPaperConfig({
     lightAndDarkMode: true,
     dynamicOgImage: true,
     showArchives: true,
-    showBackButton: true,
+    showBackButton: false,
     editPost: {
-      enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      enabled: false,
+      url: "#",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "#" },
+    { name: "x",        url: "#" },
+    { name: "linkedin", url: "#" },
+    { name: "mail",     url: "#" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
