@@ -6,7 +6,7 @@ export default defineAstroPaperConfig({
     title: "Best News",
     description: "Berita Seputar Bisnis, Investasi, Keuangan, Crypto, Lirik Lagu Dan Lainnya",
     author: "Putri Lestari",
-    profile: "#",
+    profile: "/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Bangkok",
