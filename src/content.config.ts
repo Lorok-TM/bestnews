@@ -3,9 +3,12 @@ import { z } from "astro/zod";
 import { glob } from "astro/loaders";
 import config from "@/config";
 
-export const BLOG_PATH = "src/content/posts";
+// ─── AMUNISI PUNGKASAN: OPER PATH MENYANG ROOT NJABA (RASA HUGO) ───
+// Ganti sing maune "src/content/posts" dadi langsung folder "content/posts" ing njobo
+export const BLOG_PATH = "content/posts";
 
 const posts = defineCollection({
+  // Base diarahne neng folder root njobo
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${BLOG_PATH}` }),
   schema: ({ image }) =>
     z.object({
@@ -25,7 +28,8 @@ const posts = defineCollection({
 });
 
 const pages = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/pages" }),
+  // Sisan folder pages-e dioper metu sisan neng folder "content/pages" ben merdeka kabeh
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./content/pages" }),
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
