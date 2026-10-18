@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://best-news.pages.dev/",
     title: "Best News",
     description: "Berita Seputar Bisnis, Investasi, Keuangan, Crypto, Lirik Lagu Dan Lainnya",
-    author: "Sat Naing",
+    author: "Putri Lestari",
     profile: "https://satnaing.dev",
     ogImage: "default-og.jpg",
     lang: "en",
