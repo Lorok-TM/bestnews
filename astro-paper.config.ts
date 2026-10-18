@@ -4,9 +4,9 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://best-news.pages.dev/",
     title: "Best News",
-    description: "Berita Seputar Bisnis, Investasi, Keuangan, Crypto, Lirik Lagu Dan Lainnya",
+    description: "Berita Seputar Bisnis Investasi Keuangan Crypto Lirik Lagu Dan Lainnya",
     author: "Putri Lestari",
-    profile: "/",
+    profile: "",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Bangkok",
@@ -24,15 +24,15 @@ export default defineAstroPaperConfig({
     showBackButton: false,
     editPost: {
       enabled: false,
-      url: "#",
+      url: "",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "#" },
-    { name: "x",        url: "#" },
-    { name: "linkedin", url: "#" },
-    { name: "mail",     url: "#" },
+    { name: "github",   url: "" },
+    { name: "x",        url: "" },
+    { name: "linkedin", url: "" },
+    { name: "mail",     url: "" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
