@@ -9,7 +9,6 @@ tags:
   - Microsoft
 description: "Bayangkan Anda sedang berada di depan klien penting atau dosen penguji. Anda sudah menyiapkan materi presentasi yang luar biasa"
 ---
-import ResponsiveTable from '@/components/ResponsiveTable.astro';
 
 Bayangkan Anda sedang berada di depan klien penting atau dosen penguji. Anda sudah menyiapkan materi presentasi yang luar biasa dan desain slide yang memukau. Namun, saat layar proyektor menyala, audiens masih melihat menu *editing* PowerPoint Anda.
 
@@ -18,6 +17,8 @@ Momen canggung seperti ini tentu bisa menurunkan rasa percaya diri dan mengurang
 Dalam artikel ini, kita akan membahas tuntas berbagai metode untuk menampilkan *slide show* penuh. Anda tidak hanya akan belajar tombol *shortcut* dasar, tetapi juga cara mengatasi masalah layar yang terpotong atau memiliki pinggiran hitam.
 
 Mari kita mulai panduan lengkapnya agar presentasi Anda berikutnya berjalan lancar dan terlihat sangat profesional.
+
+![PowerPoint Full Screen](https://best-news.pages.dev/image/powerpoint-full-screen.webp)
 
 ## Mengapa Tampilan Full Screen Sangat Penting Saat Presentasi?
 
