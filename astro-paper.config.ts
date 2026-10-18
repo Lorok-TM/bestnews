@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://best-news.pages.dev/",
     title: "Best News",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    description: "Berita Seputar Bisnis, Investasi, Keuangan, Crypto, Lirik Lagu Dan Lainnya",
     author: "Putri Lestari",
     profile: "#",
     ogImage: "default-og.jpg",
