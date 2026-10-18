@@ -21,9 +21,9 @@ export default defineAstroPaperConfig({
     lightAndDarkMode: true,
     dynamicOgImage: true,
     showArchives: true,
-    showBackButton: true,
+    showBackButton: false,
     editPost: {
-      enabled: false,
+      enabled: true,
       url: "https://github.com/satnaing/astro-paper/edit/main/",
     },
     search: "pagefind",
