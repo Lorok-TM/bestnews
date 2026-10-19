@@ -1,7 +1,7 @@
 ---
 author: Putri Lestari
 pubDatetime: 2026-10-18T13:38:00Z
-title: Perbedaan Outlook dan Gmail: Mana yang Lebih Baik untuk Anda?
+title: "Perbedaan Outlook dan Gmail: Mana yang Lebih Baik untuk Anda?"
 slug: perbedaan-outlook-dan-gmail
 featured: false
 draft: false
