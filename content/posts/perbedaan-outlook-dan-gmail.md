@@ -86,7 +86,7 @@ Bahkan, banyak pengguna layanan email Google yang lebih memilih membaca pesan me
 
 ## Perbandingan Harga untuk Email Bisnis
 
-Jika Anda berencana menggunakan nama domain kustom (misalnya *nama@perusahaananda.com*), Anda harus beralih ke layanan berbayar. Di sinilah **Outlook vs Gmail** saling bersaing merebut hati pelaku usaha.
+Jika Anda berencana menggunakan nama domain kustom (misalnya nama@perusahaananda.com), Anda harus beralih ke layanan berbayar. Di sinilah **Outlook vs Gmail** saling bersaing merebut hati pelaku usaha.
 
 *   **Google Workspace (Gmail):** Harga langganan biasanya dimulai dari kisaran $6 per pengguna per bulan untuk paket *Business Starter*. Paket ini sudah mencakup email bisnis khusus, 30 GB penyimpanan per pengguna, rapat video Google Meet hingga 100 peserta, serta akses ke seluruh alat kolaborasi Google.
 *   **Microsoft 365 (Outlook):** Harga langganan dimulai dari kisaran $6 per pengguna per bulan untuk paket *Business Basic*. Anda akan mendapatkan email berbasis domain, penyimpanan email 50 GB, penyimpanan OneDrive 1 TB, serta akses ke versi web aplikasi Office dan Microsoft Teams.
