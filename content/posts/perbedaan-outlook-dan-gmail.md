@@ -142,3 +142,4 @@ Sangat bisa. Microsoft dan Google menyediakan alat migrasi bawaan yang memungkin
 
 **6. Apa kelemahan utama dari Gmail?**  
 Kelemahan terbesar Gmail untuk pengguna gratis adalah kapasitas penyimpanannya. Kuota 15 GB dibagi menjadi satu dengan Google Drive dan Google Photos. Jika Anda sering menyimpan file media besar di Google Drive, ruang penyimpanan kotak masuk email Anda akan ikut terkuras habis.
+
